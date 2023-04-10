@@ -12,6 +12,10 @@
 	};
 </script>
 
+<svelte:head>
+	<title>Learning Tailwind v3.3</title>
+</svelte:head>
+
 <h1 class="text-3xl font-semibold underline">Hello Tailwind v3.3!</h1>
 
 <main class="p-4">
